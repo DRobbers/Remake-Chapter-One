@@ -46,7 +46,11 @@ body {
 
 .LogoWrapper {
     display: block;
-    width: 800;
+    background-size: 150px;
+  width: 600px;
+  height: 600px;
+  border: 2px solid;
+  color: pink;
 }
 
 .ImageCaption {
